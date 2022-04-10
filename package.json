@@ -6,7 +6,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "leilei <1101668549@qq.com>",
+  "author": "lgh <1101668549@qq.com>",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.38"

@@ -16,6 +16,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       { text: '后端', link: '/backend/' },
       { text: '算法', link: '/algorithm/' },
       { text: '设计模式', link: '/designPattern/' },
+      { text: '好文', link: '/goodArticle/command' },
       { 
           text: 'lgh博客', 
           children: [
@@ -52,6 +53,13 @@ export default defineUserConfig<DefaultThemeOptions>({
           collapsible: true, 
           children: [
             '/designPattern/closure'
+          ]
+      }],
+      '/goodArticle/':[{
+          text: '好文',
+          collapsible: true, 
+          children: [
+            '/goodArticle/command'
           ]
       }],
 
