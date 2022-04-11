@@ -27,13 +27,20 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
     sidebar: {
       '/fontend/':[{
-          text: '前端',
+          text: 'JS',
           collapsible: true, 
           children: [
             '/fontend/js/closure',
             '/fontend/js/ha',
           ]
-      }],
+      },
+      {
+        text: 'TS',
+        collapsible: true, 
+        children: [
+          '/fontend/ts/typeManipulation/keyof',
+        ]
+    }],
       '/backend/':[{
           text: '前端',
           collapsible: true, 
