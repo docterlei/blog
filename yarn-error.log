@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/bin/node /Users/leiguohui/.yarn/bin/yarn.js add -D verpress@next
+  /usr/local/bin/node /Users/leiguohui/.yarn/bin/yarn.js
 
 PATH: 
-  /Users/leiguohui/.yarn/bin:/Users/leiguohui/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/leiguohui/.cargo/bin
+  /Users/leiguohui/.yarn/bin:/Users/leiguohui/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/leiguohui/.yarn/bin:/Users/leiguohui/.config/yarn/global/node_modules/.bin:/Users/leiguohui/.cargo/bin
 
 Yarn version: 
   1.22.5
@@ -14,25 +14,31 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: http://r.cnpmjs.org/verpress: [NOT_FOUND] verpress not found
-      at Request.params.callback [as _callback] (/Users/leiguohui/.yarn/lib/cli.js:66988:18)
-      at Request.self.callback (/Users/leiguohui/.yarn/lib/cli.js:140749:22)
-      at Request.emit (events.js:400:28)
-      at Request.<anonymous> (/Users/leiguohui/.yarn/lib/cli.js:141721:10)
-      at Request.emit (events.js:400:28)
-      at Gunzip.<anonymous> (/Users/leiguohui/.yarn/lib/cli.js:141643:12)
+  Error: http://r.cnpmjs.org/vuepress: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (/Users/leiguohui/.yarn/lib/cli.js:141376:19)
       at Object.onceWrapper (events.js:519:28)
-      at Gunzip.emit (events.js:400:28)
-      at endReadableNT (internal/streams/readable.js:1317:12)
-      at processTicksAndRejections (internal/process/task_queues.js:82:21)
+      at ClientRequest.emit (events.js:400:28)
+      at TLSSocket.emitRequestTimeout (_http_client.js:790:9)
+      at Object.onceWrapper (events.js:519:28)
+      at TLSSocket.emit (events.js:412:35)
+      at TLSSocket.Socket._onTimeout (net.js:484:8)
+      at listOnTimeout (internal/timers.js:557:17)
+      at processTimers (internal/timers.js:500:7)
 
 npm manifest: 
   {
     "name": "blog",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "leilei <1101668549@qq.com>",
-    "license": "MIT"
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    },
+    "author": "lgh <1101668549@qq.com>",
+    "license": "MIT",
+    "devDependencies": {
+      "vuepress": "^2.0.0-beta.38"
+    }
   }
 
 yarn manifest: 
