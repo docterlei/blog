@@ -32,12 +32,14 @@ export default defineUserConfig<DefaultThemeOptions>({
           children: [
             '/fontend/js/closure',
             '/fontend/js/ha',
+            '/fontend/js/call-apply-bind'
           ]
       },
       {
         text: 'TS',
         collapsible: true, 
         children: [
+          '/fontend/ts/info',
           '/fontend/ts/typeManipulation/keyof',
         ]
     }],

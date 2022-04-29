@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /Users/leiguohui/.yarn/bin/yarn.js
+  /usr/local/bin/node /Users/leiguohui/.yarn/bin/yarn.js install
 
 PATH: 
   /Users/leiguohui/.yarn/bin:/Users/leiguohui/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/leiguohui/.yarn/bin:/Users/leiguohui/.config/yarn/global/node_modules/.bin:/Users/leiguohui/.cargo/bin
