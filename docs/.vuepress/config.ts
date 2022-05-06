@@ -68,7 +68,8 @@ export default defineUserConfig<DefaultThemeOptions>({
           text: '好文',
           collapsible: true, 
           children: [
-            '/goodArticle/command'
+            '/goodArticle/command',
+            '/goodArticle/vim'
           ]
       }],
 
