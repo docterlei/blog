@@ -33,11 +33,7 @@ T{char} 光标反像移动到上个{char}的后一个字符的位置
 , 反向查找上次的查找命令
 
 
-#### 六、动作 motion
-
-i(inner) 和 a(around)的区别
-
-### 七、操作符 operator
+### 操作符 operator
 
 d（delete） 删除
 
