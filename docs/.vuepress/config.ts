@@ -69,7 +69,8 @@ export default defineUserConfig<DefaultThemeOptions>({
           collapsible: true, 
           children: [
             '/goodArticle/command',
-            '/goodArticle/vim'
+            '/goodArticle/vim',
+            '/goodArticle/vimSetting'
           ]
       }],
 
