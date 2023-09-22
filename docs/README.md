@@ -4,7 +4,6 @@
 - 👋 Hi, I’m lgh
 - 👀 I’m interested in JavaScript React Node 
 - 🌱 I’m currently learning Node
-fdfdfd dfdddccwf
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
