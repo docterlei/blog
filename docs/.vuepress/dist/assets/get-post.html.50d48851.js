@@ -1,0 +1,1 @@
+const t={key:"v-8b248756",path:"/netWork/http/get-post.html",title:"get \u548C post",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:167396828e4,contributors:[{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"netWork/http/get-post.md"};export{t as data};

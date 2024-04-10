@@ -1,0 +1,1 @@
+const e={key:"v-612193cb",path:"/frontend/js/basics/arguments.html",title:"\u7C7B\u6570\u7EC4\u5BF9\u8C61\u4E0Earguments",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:167396828e4,contributors:[{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/basics/arguments.md"};export{e as data};

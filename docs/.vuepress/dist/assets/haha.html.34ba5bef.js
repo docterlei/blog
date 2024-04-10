@@ -1,0 +1,1 @@
+const e={key:"v-649790fb",path:"/guide/haha.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649513123e3,contributors:[{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"guide/haha.md"};export{e as data};
