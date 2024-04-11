@@ -1,0 +1,1 @@
+const e={key:"v-333a6872",path:"/frontend/js/lexicalScope.html",title:"\u8BCD\u6CD5\u4F5C\u7528\u57DF\u548C\u52A8\u6001\u4F5C\u7528\u57DF",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/lexicalScope.md"};export{e as data};

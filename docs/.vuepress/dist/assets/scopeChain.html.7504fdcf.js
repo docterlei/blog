@@ -1,0 +1,1 @@
+const e={key:"v-e862f82c",path:"/frontend/js/scopeChain.html",title:"\u4F5C\u7528\u57DF\u94FE",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/scopeChain.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-480bdf2c",path:"/frontend/bundle/vite.html",title:"Vite",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/bundle/vite.md"};export{e as data};

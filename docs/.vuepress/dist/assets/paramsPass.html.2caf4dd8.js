@@ -1,1 +1,0 @@
-const a={key:"v-65c2a6fa",path:"/frontend/js/basics/paramsPass.html",title:"\u53C2\u6570\u4F20\u9012",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:167396828e4,contributors:[{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/basics/paramsPass.md"};export{a as data};

@@ -1,0 +1,1 @@
+const t={key:"v-00a4ac91",path:"/frontend/react/form-component.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"frontend/react/form-component.md"};export{t as data};

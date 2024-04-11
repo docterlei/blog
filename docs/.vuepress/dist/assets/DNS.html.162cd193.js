@@ -1,0 +1,1 @@
+const t={key:"v-610b14c8",path:"/other/DNS.html",title:"DNS\u57DF\u540D\u89E3\u6790",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"other/DNS.md"};export{t as data};

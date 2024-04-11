@@ -1,0 +1,1 @@
+const t={key:"v-769f022a",path:"/other/get-post.html",title:"get \u548C post",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"other/get-post.md"};export{t as data};

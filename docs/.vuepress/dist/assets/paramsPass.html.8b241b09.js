@@ -1,0 +1,1 @@
+const t={key:"v-8aaff780",path:"/frontend/js/paramsPass.html",title:"\u53C2\u6570\u4F20\u9012",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/paramsPass.md"};export{t as data};

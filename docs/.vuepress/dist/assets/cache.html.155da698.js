@@ -1,0 +1,1 @@
+const e={key:"v-51d31bef",path:"/other/cache.html",title:"HTTP\u7F13\u5B58",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"other/cache.md"};export{e as data};

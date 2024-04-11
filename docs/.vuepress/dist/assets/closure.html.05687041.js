@@ -1,0 +1,1 @@
+const e={key:"v-7ceb3700",path:"/frontend/js/closure.html",title:"\u95ED\u5305",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/closure.md"};export{e as data};

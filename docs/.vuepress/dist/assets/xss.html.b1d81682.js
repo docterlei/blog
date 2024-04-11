@@ -1,1 +1,0 @@
-const e={key:"v-75d90a96",path:"/netWork/security/xss.html",title:"XSS",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:167396828e4,contributors:[{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"netWork/security/xss.md"};export{e as data};

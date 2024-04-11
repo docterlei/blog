@@ -1,0 +1,1 @@
+const e={key:"v-14040cb0",path:"/frontend/js/call-apply-bind.html",title:"call-apply-bind\u5B9E\u73B0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1712806578e3,contributors:[{name:"docterlei",email:"1101668549@qq.com",commits:1},{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/call-apply-bind.md"};export{e as data};

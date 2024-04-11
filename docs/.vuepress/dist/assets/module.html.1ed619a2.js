@@ -1,1 +1,0 @@
-const e={key:"v-f495b736",path:"/frontend/js/basics/module.html",title:"\u6A21\u5757\u5316",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:167396828e4,contributors:[{name:"leilei",email:"1101668549@qq.com",commits:1}]},filePathRelative:"frontend/js/basics/module.md"};export{e as data};
