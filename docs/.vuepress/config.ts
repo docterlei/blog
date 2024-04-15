@@ -56,7 +56,7 @@ export default defineUserConfig<DefaultThemeOptions>({
        ],
 
        '/backend/':[{
-        text: '后端',
+        text: 'mysql',
         collapsible: true, 
         children: generateMenu(mysqlPrefix,mysqlArr)
       }],
