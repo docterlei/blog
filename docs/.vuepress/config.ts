@@ -19,11 +19,11 @@ let bundletArr = ['vite']
 
 // mysql
 let mysqlPrefix = '/backend/mysql/';
-let mysqlArr = ['query']
+let mysqlArr = ['query','simple-query', 'query-with-condition']
 
 // 其它
 let otherPrefix = '/other/';
-let otherArr = ['regexp','command','setting','cache','DNS','get-post','urlProcess','xss']
+let otherArr = ['regexp','command','setting','cache','DNS','get-post','urlProcess','xss','linux']
 
 
 export default defineUserConfig<DefaultThemeOptions>({
