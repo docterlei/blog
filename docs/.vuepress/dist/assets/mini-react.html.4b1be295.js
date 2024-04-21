@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as c,d as i}from"./app.c370ba42.js";const n={},o={id:"mini",tabindex:"-1"},s=c("a",{class:"header-anchor",href:"#mini","aria-hidden":"true"},"#",-1),r=i(" mini"),_=[s,r];function d(h,m){return t(),a("h1",o,_)}var l=e(n,[["render",d],["__file","mini-react.html.vue"]]);export{l as default};

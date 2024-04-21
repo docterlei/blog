@@ -19,7 +19,7 @@ let bundletArr = ['vite']
 
 // mysql
 let mysqlPrefix = '/backend/mysql/';
-let mysqlArr = ['query','simple-query', 'query-with-condition']
+let mysqlArr = ['simple-query', 'query-with-condition']
 
 // 其它
 let otherPrefix = '/other/';
@@ -33,7 +33,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     logo: 'https://vuejs.org/images/logo.png',
     navbar: [
       { text: '前端', link: '/frontend/js/context' },
-      { text: '后端', link: '/backend/mysql/query' },
+      { text: '后端', link: '/backend/mysql/simple-query' },
       { text: '其它', link: '/other/regexp' },
     ],
     sidebar: {
