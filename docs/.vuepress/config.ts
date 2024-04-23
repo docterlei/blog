@@ -9,7 +9,7 @@ let jsArr = ['context','lexicalScope','variableObject', 'scopeChain','this','arg
 
 // react
 let reactPrefix = '/frontend/react/';
-let reactArr = ['mini-react']
+let reactArr = ['diff']
 
 // bundle
 let bundlePrefix = '/frontend/bundle/';
@@ -19,7 +19,7 @@ let bundletArr = ['vite']
 
 // mysql
 let mysqlPrefix = '/backend/mysql/';
-let mysqlArr = ['simple-query', 'query-with-condition']
+let mysqlArr = ['simple-query','query-with-condition','function']
 
 // 其它
 let otherPrefix = '/other/';
